@@ -1,6 +1,6 @@
 name: Robert Marks
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.27149
 typography_spectrum: 0.17231
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#be715e'
   brandStrength: 0.1875
   lightness: 0.045643092365935445
-  saturation: 0.875
+  saturation: 0.9375
   rhythmicContrast: 0.22561914450488985
 purpose: []
