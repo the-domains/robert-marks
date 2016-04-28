@@ -1,0 +1,28 @@
+name: Robert Marks
+favicon: null
+layout_spectrum: 0.08875596872530878
+typography_spectrum: 0.20850637485273182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.20899140648543835
+  lightness: 0.045643092365935445
+  saturation: 0.9293666242156178
+  rhythmicContrast: 0.22561914450488985
+purpose: []
